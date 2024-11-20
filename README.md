@@ -3,4 +3,4 @@ Big 2 is a 4 player game of imperfect information with a complicated action spac
 
 We will explore Big 2 using 3 machine learning algorithms: deep reinforcement learning, Markov decision processes, and Deep Monte Carlo models. The results have been surprisingly good - my friends and I play this game A LOT every time we go on holiday and it has got to the point where it convincingly beats all of us over a decent amount of games.
 
-The reinforcement learning algorithm is inspired by <a href="https://github.com/henrycharlesworth/big2_PPOalgorithm">Henry Charlesworth's</a> implementation. <a href="https://github.com/henrycharlesworth/big2_PPOalgorithm/blob/master/rules.md">Here</a> are the rules of the game.
+The reinforcement learning algorithm is inspired by <a href="https://github.com/henrycharlesworth/big2_PPOalgorithm">Henry Charlesworth's</a> implementation. <a href="https://github.com/elliuhuang/big2-AI/blob/main/rules.md">Here</a> are the rules of the game.
