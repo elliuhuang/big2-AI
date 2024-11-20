@@ -1,0 +1,6 @@
+# Big 2 Machine Learning
+Big 2 is a 4 player game of imperfect information with a complicated action space. Players can play  singles, pairs, three of a kinds, two pairs, straights, flushes, full houses, etc. from an initial starting hand of 13 cards. The goal is to get rid of all your cards, but playing the game well is not as simple as greedily getting rid of the next smallest card that you can play. It requires formulating a long-term plan, anticipating your opponents' plans, and knowing when to play a hand and when to save a hand for later. 
+
+We will explore Big 2 using 3 machine learning algorithms: deep reinforcement learning, Markov decision processes, and Deep Monte Carlo models. The results have been surprisingly good - my friends and I play this game A LOT every time we go on holiday and it has got to the point where it convincingly beats all of us over a decent amount of games.
+
+The reinforcement learning algorithm is inspired by <a href="https://github.com/henrycharlesworth/big2_PPOalgorithm">Henry Charlesworth's</a> implementation. <a href="https://github.com/henrycharlesworth/big2_PPOalgorithm/blob/master/rules.md">Here</a> are the rules of the game.
